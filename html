@@ -5,8 +5,14 @@
 <body>
 
      <button onclick="bemvindo()">CLIQUE AQUI</button>
-     
+
+     <button onclick="alterarTexto()"> BATLE </button>
+     <h4 id="mudar"> ORAA ORAA</h4>
 <script>
+function alterarTexto() {
+ document.getElementById("mudar").innerText = "MUDA MUDA";
+}
+
  function bemvindo(){
 alert("BEM VINDO / BIENVIENIDO / WELCOME ")
 }
