@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Copa de World</title>
+</head>
+<header> 
+    <h1> Grupo (C) Clasificatório. </h1>
+</header>
+
+<body>
+ 
+
+
+<table id="WinC" border="2">
+  <thead>
+    <tr>
+      <th>Seleção</th>
+      <th>Pontuação </th>
+    </tr>
+  </thead>
+  <tbody>
+     <tr>
+      <td>BRASIL</td>
+      <td>X</td>
+    </tr>
+    <tr>
+      <td>MARROCOS</td>
+      <td>X</td>
+    </tr>
+    <tr>
+      <td>HAITI</td>
+      <td>X</td>
+    </tr>
+    <tr>
+      <td>ESCOCIA</td>
+      <td>X</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
+    <script src = "./script.js"></script>
+    
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+function WinC() {
+    let = Bra
+    let = Mar 
+    let = Esc
+    let = Hai
+  }
